@@ -34,8 +34,6 @@ public final class AppManager {
 	 * 
 	 * [一句话功能简述 单一实例] [功能详细描述]
 	 * 
-	 * @param [参数1] [参数1说明]
-	 * @param [参数2] [参数2说明]
 	 * @return [返回类型说明]
 	 * @exception/throws [违例类型] [违例说明]
 	 * @see [类、类#方法、类#成员]
@@ -51,8 +49,6 @@ public final class AppManager {
 	 * 
 	 * [一句话功能简述 添加Activity到堆栈] [功能详细描述]
 	 * 
-	 * @param [参数1] [参数1说明]
-	 * @param [参数2] [参数2说明]
 	 * @return [返回类型说明]
 	 * @exception/throws [违例类型] [违例说明]
 	 * @see [类、类#方法、类#成员]
@@ -68,8 +64,6 @@ public final class AppManager {
 	 * 
 	 * [一句话功能简述 获取当前Activity（堆栈中最后一个压入的）] [功能详细描述]
 	 * 
-	 * @param [参数1] [参数1说明]
-	 * @param [参数2] [参数2说明]
 	 * @return [返回类型说明]
 	 * @exception/throws [违例类型] [违例说明]
 	 * @see [类、类#方法、类#成员]
@@ -83,8 +77,6 @@ public final class AppManager {
 	 * 
 	 * [一句话功能简述 结束当前Activity（堆栈中最后一个压入的）] [功能详细描述]
 	 * 
-	 * @param [参数1] [参数1说明]
-	 * @param [参数2] [参数2说明]
 	 * @return [返回类型说明]
 	 * @exception/throws [违例类型] [违例说明]
 	 * @see [类、类#方法、类#成员]
@@ -98,8 +90,6 @@ public final class AppManager {
 	 * 
 	 * [一句话功能简述 结束指定的Activity] [功能详细描述]
 	 * 
-	 * @param [参数1] [参数1说明]
-	 * @param [参数2] [参数2说明]
 	 * @return [返回类型说明]
 	 * @exception/throws [违例类型] [违例说明]
 	 * @see [类、类#方法、类#成员]
@@ -116,8 +106,6 @@ public final class AppManager {
 	 * 
 	 * [一句话功能简述 结束指定类名的Activity] [功能详细描述]
 	 * 
-	 * @param [参数1] [参数1说明]
-	 * @param [参数2] [参数2说明]
 	 * @return [返回类型说明]
 	 * @exception/throws [违例类型] [违例说明]
 	 * @see [类、类#方法、类#成员]
@@ -138,8 +126,6 @@ public final class AppManager {
 	 * 
 	 * [一句话功能简述 获得指定类名的Activity] [功能详细描述]
 	 * 
-	 * @param [参数1] [参数1说明]
-	 * @param [参数2] [参数2说明]
 	 * @return [返回类型说明]
 	 * @exception/throws [违例类型] [违例说明]
 	 * @see [类、类#方法、类#成员]
@@ -166,8 +152,6 @@ public final class AppManager {
 	 * 
 	 * [一句话功能简述 结束所有Activity] [功能详细描述]
 	 * 
-	 * @param [参数1] [参数1说明]
-	 * @param [参数2] [参数2说明]
 	 * @return [返回类型说明]
 	 * @exception/throws [违例类型] [违例说明]
 	 * @see [类、类#方法、类#成员]
@@ -185,8 +169,6 @@ public final class AppManager {
 	 * 
 	 * [一句话功能简述 退出应用程序] [功能详细描述]
 	 * 
-	 * @param [参数1] [参数1说明]
-	 * @param [参数2] [参数2说明]
 	 * @return [返回类型说明]
 	 * @exception/throws [违例类型] [违例说明]
 	 * @see [类、类#方法、类#成员]
@@ -204,8 +186,6 @@ public final class AppManager {
 	 * 
 	 * [一句话功能简述 获取activity 栈] [功能详细描述]
 	 * 
-	 * @param [参数1] [参数1说明]
-	 * @param [参数2] [参数2说明]
 	 * @return [返回类型说明]
 	 * @exception/throws [违例类型] [违例说明]
 	 * @see [类、类#方法、类#成员]
